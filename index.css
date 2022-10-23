@@ -15,6 +15,6 @@ th{
 tr:nth-child(even){
   background-color: #eee;
 }
-.foot-table{
+.footTable{
   margin: 15px 15px 20px 20px;
 }
